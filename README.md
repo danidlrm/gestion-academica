@@ -1,2 +1,2 @@
-# Gesti-n-academica
+# Gestion-academica
 ex. final 
